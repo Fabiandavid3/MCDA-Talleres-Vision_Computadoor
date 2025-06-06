@@ -3,7 +3,7 @@
 
 ## 📌 Introducción
 
-Este repositorio contiene el desarrollo de los talleres realizados en el marco de la asignatura *Visión por Computador, correspondiente al plan de estudios de la **Maestría en Ciencia de Datos y Analítica* de la *Universidad EAFIT*. A lo largo del curso, se abordaron temas fundamentales y avanzados relacionados con el procesamiento y análisis de imágenes, aplicando técnicas clásicas de visión por computador y modelos basados en aprendizaje profundo.
+Este repositorio contiene el desarrollo de los talleres realizados en el marco de la asignatura Visión por Computador, correspondiente al plan de estudios de la Maestría en Ciencia de Datos y Analítica de la Universidad EAFIT. A lo largo del curso, se abordaron temas fundamentales y avanzados relacionados con el procesamiento y análisis de imágenes, aplicando técnicas clásicas de visión por computador y modelos basados en aprendizaje profundo.
 
 Los talleres están diseñados para explorar conceptos clave como:
 - Preprocesamiento de imágenes
@@ -12,7 +12,7 @@ Los talleres están diseñados para explorar conceptos clave como:
 - Clasificación con redes neuronales convolucionales (CNN)
 - Modelos multimodales y transferencia de aprendizaje
 
-Cada taller incluye documentación, código fuente y resultados obtenidos durante el proceso de aprendizaje.
+Cada taller incluye código fuente y resultados obtenidos durante el proceso de aprendizaje.
 
 ## 👩‍💻 Autores
 
@@ -29,4 +29,8 @@ Reunir en un solo espacio los talleres prácticos desarrollados durante el curso
 - Servir como portafolio académico y base para futuros proyectos relacionados con visión artificial.
 - Compartir buenas prácticas y fomentar el aprendizaje colaborativo.
 
-## 🗂 Estructura del Proyecto
+## 🗂 Licencia
+
+Este proyecto es de uso académico. Se autoriza su uso y adaptacióncon fines educativos, citando a los autores originales
+
+
